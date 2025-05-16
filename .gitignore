@@ -7,3 +7,4 @@
 
 # 确保.gitignore本身不被忽略
 !.gitignore
+!.md
