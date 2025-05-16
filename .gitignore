@@ -3,8 +3,9 @@
 
 # 但不忽略mnist目录和.py文件
 !mnist/
+!mnist/*
 !*.py
 
 # 确保.gitignore本身不被忽略
 !.gitignore
-!.md
+!*.md
